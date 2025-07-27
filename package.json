@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.526.0",
+    "scrollreveal": "^4.0.9"
+  }
+}
