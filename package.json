@@ -1,6 +1,42 @@
 {
+  "name": "MY_PORTFOLIO",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
-    "lucide-react": "^0.526.0",
-    "scrollreveal": "^4.0.9"
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.6",
+    "@mui/material": "^6.4.6",
+    "@mui/styled-engine-sc": "^6.4.6",
+    "aos": "^2.3.4",
+    "lucide-react": "^0.469.0",
+    "mongoose": "^8.9.4",
+    "next": "^14.2.27",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.30.3",
+    "scrollreveal": "^4.0.9",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.1.15",
+    "swiper": "^11.2.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/node": "22.10.7",
+    "@types/react": "19.0.7",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.4",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17"
   }
 }
