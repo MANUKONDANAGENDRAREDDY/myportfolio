@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.selectionid {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.8rem;
+  color: #15d752;
+}
+.line {
+  border: none;
+  border-top: 5px solid #15d752;
+  width: 100%;
+}
+.selectionSkill {
+  display: inline-block;
+  background-color: #15d752;
+  margin: 10px 10px 10px 0;
+  font: 500 sans-serif;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+}
+.selection {
+  display: block;
+  margin: 10px 20px;
+  letter-spacing: 0.5px;
+  text-align: justify;
+  line-height: 1.6;
+  font: 400 sans-serif;
+}
+button {
+  background-color: #15d752;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font: 500 sans-serif;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0f9c3b;
+}
+.container {
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
